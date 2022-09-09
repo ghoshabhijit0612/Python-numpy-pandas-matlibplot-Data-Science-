@@ -1,0 +1,4 @@
+n = 10
+x = 10
+print(id(n))
+print(id(x))
